@@ -123,7 +123,7 @@ scroll-behavior: smooth;
 }
 
 #specs{
-margin-bottom: 100px;
+margin-bottom: 50px;
 }
   
 .glass-card {
@@ -152,6 +152,14 @@ animation: pulse 2s infinite;
 70% { box-shadow: 0 0 0 10px rgba(157, 80, 187, 0); }
 100% { box-shadow: 0 0 0 0 rgba(157, 80, 187, 0); }
 }
+
+
+@media (min-width: 768px) {
+  #specs {
+    margin-bottom: 100px; /* Para tablets e desktops */
+  }
+}
+  
 </style>
 </head>
 <body class="bg-background text-on-background font-body-md selection:bg-primary-container selection:text-white">
