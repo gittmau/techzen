@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Indica ao Google onde está o mapa das suas páginas
-Sitemap: https://seu-dominio.com.br
+Sitemap: https://guiatechzen.com.br
