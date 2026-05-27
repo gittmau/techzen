@@ -1,5 +1,5 @@
 User-agent: *
-Allow: /
+Disallow:
 
-# Indica ao Google onde está o mapa das suas páginas
-Sitemap: https://guiatechzen.com.br
+Sitemap: https://guiatechzen.com.br/sitemap
+
